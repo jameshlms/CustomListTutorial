@@ -15,6 +15,6 @@ public class TutorialList {
      */
 
     /*
-    Create the methods 'size()', 'get()', 'set()', two 'add()' methods, 'swap()', 'toArray()' and 'toString()'
+    Create the methods 'size()', 'get()', 'set()', two 'add()' methods, 'remove()', 'swap()', 'toArray()' and 'toString()'
      */
 }
